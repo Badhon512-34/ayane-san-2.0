@@ -5,11 +5,11 @@ module.exports = {
 	config: {
 		name: "prefix",
 		version: "1.5",
-		author: "🔰 𝐁𝐚𝐘𝐣𝐢𝐝 🔰",
+		author: "BADHON",
 		countDown: 5,
 		role: 0,
 		description: "🛠️ 𝐂𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐩𝐫𝐞𝐟𝐢𝐱 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐛𝐨𝐱 𝐨𝐫 𝐭𝐡𝐞 𝐞𝐧𝐭𝐢𝐫𝐞 𝐬𝐲𝐬𝐭𝐞𝐦 (𝐨𝐧𝐥𝐲 𝐛𝐨𝐭 𝐚𝐝𝐦𝐢𝐧)",
-		category: "⚙️ 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧",
+		category: "SYSTEM",
 		guide: {
 			en: 
 				"━━━━━━━━━━━━━━━━━━━\n"
