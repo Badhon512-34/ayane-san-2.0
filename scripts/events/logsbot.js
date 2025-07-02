@@ -1,4 +1,3 @@
-Command executed successfully:
 const { getTime } = global.utils;
 
 module.exports = {
