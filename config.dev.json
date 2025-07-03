@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
 		"email": "brsgaming222@gmail.com",
-		"password": "your.father.badhon",
+		"password": "brsgamim",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -21,10 +21,10 @@
 	"adminBot": [
 		"61557409693409",
 		"61571421696077",
-"61569514522983"
+		"61569514522983"
 	],
 	"nisanBot": [
-		""
+		"61568301181050"
 	],
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
@@ -98,8 +98,8 @@
 	"autoRestartWhenListenMqttError": false,
 	"restartListenMqtt": {
 		"enable": true,
-		"timeRestart": 38700000,
-		"delayAfterStopListening": 2762000,
+		"timeRestart": 3600000,
+		"delayAfterStopListening": 2000,
 		"logNoti": true,
 		"notes": "the value of timeRestart and delayAfterStopListening is milisecond, You shouldn't edit this if you don't know what it is"
 	},
@@ -154,4 +154,4 @@
 		"autoReconnect": false,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
-  }
+}
